@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/battlecity.qml</file>
+        <file>qml/MainMenu.qml</file>
+        <file>qml/GameScreen.qml</file>
+        <file>qml/HUD.qml</file>
+        <file>qml/Tank.qml</file>
+        <file>qml/Player1Tank.qml</file>
+        <file>qml/Player2Tank.qml</file>
+        <file>qml/EnemyTank.qml</file>
+        <file>qml/Bullet.qml</file>
+        <file>qml/Wall.qml</file>
+        <file>qml/WallsGrid.qml</file>
+        <file>qml/ScreenBoundaries.qml</file>
+        <file>qml/box2d-templates/BoxBody.qml</file>
+        <file>qml/box2d-templates/ChainBody.qml</file>
+        <file>qml/box2d-templates/CircleBody.qml</file>
+        <file>qml/box2d-templates/EdgeBody.qml</file>
+        <file>qml/box2d-templates/ImageBoxBody.qml</file>
+        <file>qml/box2d-templates/PhysicsItem.qml</file>
+        <file>qml/box2d-templates/PolygonBody.qml</file>
+        <file>qml/box2d-templates/RectangleBoxBody.qml</file>
+        <file>images/logo.png</file>
+        <file>images/wall.png</file>
+        <file>images/player1_tank.png</file>
+        <file>images/player2_tank.png</file>
+        <file>images/enemy_tank.png</file>
+        <file>images/bullet.png</file>
+        <file>sounds/cannon.wav</file>
+    </qresource>
+</RCC>
