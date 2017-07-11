@@ -1,6 +1,6 @@
 # BattleCity
 
-Battle City clone written in Qt/QML (Qt Quick 2).
+Battle City clone written in Qt/QML (Qt Quick 2) using QML Box2D plugin.
 
 ## Dependencies
 
