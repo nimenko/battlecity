@@ -33,3 +33,11 @@ Battle City clone written in Qt/QML (Qt Quick 2) using QML Box2D plugin.
 - Run **BattleCity** and have fun:
 
   `./battlecity`
+
+## Screenshots
+
+#### Main Menu
+![Main Menu](/screenshots/screenshot1.png)
+
+#### 2 Players Mode
+![2 Players Mode](/screenshots/screenshot2.png)
